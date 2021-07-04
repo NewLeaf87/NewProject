@@ -24,7 +24,7 @@ public class UI {
         window = new JFrame();
         window.setSize(800,600);
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        window.getConentPane().setBackground(color.black);
+        window.getContentPane().setBackground(Color.black);
         window.setLayout(null);
     }
 
